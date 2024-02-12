@@ -1,0 +1,8 @@
+html, body {
+    height: 100%; }
+    .container {
+    display: flex;
+    flex-direction: column;
+    min-height: 85vh; }
+    .content {
+    flex-grow: 1; }
